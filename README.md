@@ -1,5 +1,6 @@
 # Start
 npm install
+
 node flags.js
 
 # Swagger
